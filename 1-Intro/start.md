@@ -6,3 +6,12 @@ Download Correct Software
 4. Download Postgres: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 5. Download Postman: https://www.getpostman.com/
 6. Download VS Code: https://code.visualstudio.com/download
+
+7. VS code Tools
+- Live Server
+- Live Share
+- Prettier - Code formatter
+- Auto Rename Tag
+- vscode-pdf
+- setting up code . to path
+
